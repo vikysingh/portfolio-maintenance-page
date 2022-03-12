@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-maintenance-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikysingh/portfolio-maintenance-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikysingh/portfolio-maintenance-page/issues"
+  },
+  "homepage": "https://github.com/vikysingh/portfolio-maintenance-page#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
